@@ -1,1 +1,1 @@
-# Spritual-Travellers
+This is a Uttarakhand based website that helps tourist and travellers to see the best places to visit in the state and also get suggestion for the best sights near them or in neighbouring cities. This website is currently under developement and will be updated regularly.
